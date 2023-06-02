@@ -440,7 +440,7 @@ textarea {
 .row {
     width: 89%;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto 29px;
 }
 
 .row:after {
@@ -942,11 +942,12 @@ textarea {
     text-align: center;
     color: #006eff;
     font-weight: bolder;
-    height: 192px;
+    height: 40px;
     font-size: 0.8em;
     letter-spacing: -5px;
     font-family: 'Baloo Bhai 2', cursive;
-    margin-bottom: 1px;
+    margin-bottom: 0;
+    margin-top: -3px;
 }
 
 .text-left {
